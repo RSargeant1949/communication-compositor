@@ -12,7 +12,7 @@
 
 Communication Compositor is a React UI for assembling personalised letters and emails from a library of reusable content blocks stored in Microsoft OneNote.
 
-Instead of writing each communication from scratch, you maintain a block store — paragraphs about health, work, travel, family — and compose each letter by selecting and ordering the relevant blocks. The compositor builds a properly formatted Word document via the Microsoft Graph API.
+Instead of writing each communication from scratch, you maintain a block store — paragraphs about health, work, travel, family or whatever you need — and compose each letter by selecting and ordering the relevant blocks. The compositor builds a properly formatted Word document via the Microsoft Graph API.
 
 **Origin:** The use case is personal circular letters where some blocks suit some recipients but not others. Rather than editing a master letter each time, you compose from blocks, tick what's relevant, drag to order, and build.
 
